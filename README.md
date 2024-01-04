@@ -1,3 +1,3 @@
 # Demo
 This is my first repository
-This is the scond commit
+This is the first commit
